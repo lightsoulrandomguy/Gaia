@@ -220,4 +220,4 @@ Gaia is offered as a full free version with all features and updates included, e
 Don't miss out on the ultimate Kodi experience! Download Gaia now and explore an endless world of entertainment!
 
 ---
-**Last updated:** 2026-09-19 22:09:55 UTC
+**Last updated:** 2026-09-20 00:43:35 UTC
